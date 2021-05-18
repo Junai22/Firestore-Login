@@ -9,7 +9,7 @@ _A Simple Login System made with Firebase, Firestore, Python and Google Cloud._
 Execute Install.bat
 ```
 
-## How To use 📦
+## How To Use 📦
 ```
 import login
 from login import mainlogin
@@ -26,7 +26,7 @@ mainlogin()
 
 ## License 📄
 
-This Proyect is licensed under the GNU General Public License v3.0 - check [LICENSE.md](LICENSE.md) for more details.
+This Proyect is licensed under the GNU General Public License v3.0 - check [LICENSE.md](LICENSE) for more details.
 
 ## Notes 🎁
 
