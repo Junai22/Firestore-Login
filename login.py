@@ -93,11 +93,13 @@ def mainlogin():
 
             else:
                 print("Password error.")
+                mainlogin()
        
         else:
             
             clear()
             
             print("Username invalid.")
+            mainlogin()
 
 mainlogin()
