@@ -32,5 +32,5 @@ This Proyect is licensed under the GNU General Public License v3.0 - check [LICE
 
 * This is the first version, if you see a bug open an issue. ☕ 
 
-Made by [Lzyen](https://github.com/Lzyen) 😊
+Made by [Junai](https://github.com/Junai22) 😊
 
