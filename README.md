@@ -1,5 +1,9 @@
-# Firestore - Login
+<h1 align="center"> Firestore - Login </h1>
 
+<p align="center">
+    <a href="https://www.python.org/downloads/release/python-380/" align="center">
+        <img alt="Python" src="https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8-blue">
+    </a>
 
 _A Simple Login System made with Firebase, Firestore, Python and Google Cloud._
 
@@ -9,7 +13,7 @@ _A Simple Login System made with Firebase, Firestore, Python and Google Cloud._
 Execute Install.bat
 ```
 
-## How To Use 📦
+## Example Usage 📦
 ```
 import login
 from login import mainlogin
