@@ -11,6 +11,7 @@ _A Simple Login System made with Firebase, Firestore, Python and Google Cloud._
 ### Install 🔧
 ```
 Execute Install.bat
+Downlaod your credentials at [Google Cloud Service Account](https://console.cloud.google.com/iam-admin/serviceaccounts) and move it to Database Folder.
 ```
 
 ## Example Usage 📦
